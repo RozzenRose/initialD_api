@@ -1,6 +1,5 @@
 .venv
 .env
 .env.example
-alembic.ini
 .idea
 __pycache__/
